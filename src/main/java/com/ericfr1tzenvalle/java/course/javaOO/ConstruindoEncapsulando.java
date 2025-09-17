@@ -25,6 +25,8 @@ public class ConstruindoEncapsulando {
         l1.showState();
         l1.setOn();
         l1.showState();
+        //l1.on = false; Não pode
+        //So mudamos o estado da lampada atraves de metodos
 
         System.out.println("==============================");
 
