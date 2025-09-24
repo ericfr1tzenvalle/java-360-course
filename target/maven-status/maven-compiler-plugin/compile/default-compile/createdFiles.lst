@@ -26,6 +26,7 @@ com\ericfr1tzenvalle\java\course\javaOO\Excecoes$Vehicle.class
 com\ericfr1tzenvalle\java\course\javaCORE\EstruturasSelecao.class
 com\ericfr1tzenvalle\java\course\javaOO\ConstruindoEncapsulando.class
 com\ericfr1tzenvalle\java\course\javaOO\ClasseAbstrata$CheckingAccount.class
+com\ericfr1tzenvalle\java\course\javaTiposEspeciais\String360.class
 com\ericfr1tzenvalle\java\course\javaCORE\DebugDocumentacao.class
 com\ericfr1tzenvalle\java\course\javaOO\ConstruindoEncapsulando$Retangulo.class
 com\ericfr1tzenvalle\java\course\javaOO\PorDentroMetodos$Watch.class
@@ -35,5 +36,6 @@ com\ericfr1tzenvalle\java\course\javaOO\ConstruindoEncapsulando$Lamp.class
 com\ericfr1tzenvalle\java\course\javaCORE\EstruturasRepeticao.class
 com\ericfr1tzenvalle\java\course\javaOO\Interfaces$SameCredentialsLoginMethod.class
 com\ericfr1tzenvalle\java\course\javaOO\Record$Person.class
+com\ericfr1tzenvalle\java\course\javaOO\TratandoExcecoes.class
 com\ericfr1tzenvalle\java\course\Java360Course.class
 com\ericfr1tzenvalle\java\course\javaOO\Polimorfismo$Rectangle.class
