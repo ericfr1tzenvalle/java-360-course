@@ -12,12 +12,14 @@
  * - Import estático para facilitar legibilidade
  * - Métodos utilitários como values() e valueOf()
  */
+
 package com.ericfr1tzenvalle.java.course.javaTiposEspeciais;
+import static com.ericfr1tzenvalle.java.course.javaTiposEspeciais.Enum360.DiasDaSemana.*;
 
 public class Enum360 {
     public static void main(String[] args) {
         // Exemplo 1:
-        DiasDaSemana d1 = DiasDaSemana.SEGUNDA;
+        DiasDaSemana d1 = SEGUNDA; //Possivel com import static
         System.out.println("Dia: " + d1);
         for (int i = 0; i < 7; i++) {
             d1 = d1.getNext();
@@ -60,7 +62,7 @@ public class Enum360 {
 
     
     
-    private static enum DiasDaSemana {
+    public static enum DiasDaSemana {
         SEGUNDA("TERÇA"),
         TERCA("QUARTA"),
         QUARTA("QUINTA"),
