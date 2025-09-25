@@ -4,7 +4,9 @@ com\ericfr1tzenvalle\java\course\javaOO\Polimorfismo$Square.class
 com\ericfr1tzenvalle\java\course\javaOO\ClasseAbstrata.class
 com\ericfr1tzenvalle\java\course\javaOO\Interfaces$LoginMethod.class
 com\ericfr1tzenvalle\java\course\javaOO\ClasseAbstrata$Account.class
+com\ericfr1tzenvalle\java\course\javaTiposEspeciais\Enum360$diasDaSemana.class
 com\ericfr1tzenvalle\java\course\javaOO\PorDentroMetodos$Fraction.class
+com\ericfr1tzenvalle\java\course\javaTiposEspeciais\Enum360.class
 com\ericfr1tzenvalle\java\course\javaOO\SealedClass$Circle.class
 com\ericfr1tzenvalle\java\course\javaOO\Excecoes$VelocidadeMaximaException.class
 com\ericfr1tzenvalle\java\course\javaOO\Polimorfismo.class
@@ -21,6 +23,7 @@ com\ericfr1tzenvalle\java\course\javaCORE\VariaveisTipoDeDados.class
 com\ericfr1tzenvalle\java\course\javaOO\ClasseObjeto.class
 com\ericfr1tzenvalle\java\course\javaOO\ModificadorStatic.class
 com\ericfr1tzenvalle\java\course\javaOO\ClasseAbstrata$SavingsAccount.class
+com\ericfr1tzenvalle\java\course\javaTiposEspeciais\Enum360$Operações.class
 com\ericfr1tzenvalle\java\course\javaOO\Conta.class
 com\ericfr1tzenvalle\java\course\javaOO\Excecoes$Vehicle.class
 com\ericfr1tzenvalle\java\course\javaCORE\EstruturasSelecao.class
