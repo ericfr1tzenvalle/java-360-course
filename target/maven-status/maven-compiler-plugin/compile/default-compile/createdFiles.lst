@@ -19,6 +19,7 @@ com\ericfr1tzenvalle\java\course\javaOO\Polimorfismo$Circle.class
 com\ericfr1tzenvalle\java\course\javaOO\PorDentroMetodos.class
 com\ericfr1tzenvalle\java\course\javaOO\ModificadorStatic$Number.class
 com\ericfr1tzenvalle\java\course\javaTextosNumeros\Formatando$Item.class
+com\ericfr1tzenvalle\java\course\javaTextosNumeros\Regex$Photo.class
 com\ericfr1tzenvalle\java\course\javaOO\Polimorfismo$Calculator.class
 com\ericfr1tzenvalle\java\course\javaOO\Polimorfismo$Shape.class
 com\ericfr1tzenvalle\java\course\javaOO\PorDentroMetodos$Pointer.class
@@ -27,6 +28,7 @@ com\ericfr1tzenvalle\java\course\javaOO\ClasseObjeto.class
 com\ericfr1tzenvalle\java\course\javaTextosNumeros\Formatando.class
 com\ericfr1tzenvalle\java\course\javaOO\ModificadorStatic.class
 com\ericfr1tzenvalle\java\course\javaOO\ClasseAbstrata$SavingsAccount.class
+com\ericfr1tzenvalle\java\course\javaTextosNumeros\Regex.class
 com\ericfr1tzenvalle\java\course\javaOO\Conta.class
 com\ericfr1tzenvalle\java\course\javaOO\Excecoes$Vehicle.class
 com\ericfr1tzenvalle\java\course\javaCORE\EstruturasSelecao.class
