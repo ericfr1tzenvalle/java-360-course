@@ -11,6 +11,7 @@ com\ericfr1tzenvalle\java\course\javaTiposEspeciais\Enum360.class
 com\ericfr1tzenvalle\java\course\javaOO\SealedClass$Circle.class
 com\ericfr1tzenvalle\java\course\javaOO\Excecoes$VelocidadeMaximaException.class
 com\ericfr1tzenvalle\java\course\javaOO\Polimorfismo.class
+com\ericfr1tzenvalle\java\course\javaTextosNumeros\BigNumbers.class
 com\ericfr1tzenvalle\java\course\javaOO\Record.class
 com\ericfr1tzenvalle\java\course\javaTiposEspeciais\Wrapper.class
 com\ericfr1tzenvalle\java\course\javaOO\SealedClass.class
@@ -36,8 +37,10 @@ com\ericfr1tzenvalle\java\course\javaOO\Excecoes$Vehicle.class
 com\ericfr1tzenvalle\java\course\javaCORE\EstruturasSelecao.class
 com\ericfr1tzenvalle\java\course\javaOO\ConstruindoEncapsulando.class
 com\ericfr1tzenvalle\java\course\javaTiposEspeciais\Enum360$Operacoes.class
+com\ericfr1tzenvalle\java\course\colecoes\Array360.class
 com\ericfr1tzenvalle\java\course\javaTiposEspeciais\Enum360$DiasDaSemana.class
 com\ericfr1tzenvalle\java\course\javaOO\ClasseAbstrata$CheckingAccount.class
+com\ericfr1tzenvalle\java\course\colecoes\Array360$Item.class
 com\ericfr1tzenvalle\java\course\javaTiposEspeciais\String360.class
 com\ericfr1tzenvalle\java\course\javaCORE\DebugDocumentacao.class
 com\ericfr1tzenvalle\java\course\javaOO\ConstruindoEncapsulando$Retangulo.class
